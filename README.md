@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-This is DenzelCode I'm from Nicaragua, living for a while in Panama, and I love solving problems :smile:
+This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, and I love solving problems :smile:
 
+📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isidro.lopezg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ialopezg)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/isidrolopezg/)
@@ -31,7 +32,7 @@ This is DenzelCode I'm from Nicaragua, living for a while in Panama, and I love 
 - IoT
 
 🔭 Currently working on:
-- Platform Boilerplate
+- [Platform Boilerplate](https://github.com/ialopezg/boilerplate)
 
 <!--
 **ialopezg/ialopezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

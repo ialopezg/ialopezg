@@ -4,9 +4,9 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 
 📫 How to reach me:
 
-![![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isidro.lopezg@gmail.com)
-![![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ialopezg)
-![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/isidrolopezg/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isidro.lopezg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ialopezg)
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/isidrolopezg/)
 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻

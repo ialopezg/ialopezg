@@ -10,7 +10,7 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻
-- JavaScript, TypeScript, Java, PHP, and everything related with a heavy preference for backend development.
+- JavaScript, TypeScript, Java, PHP, Python, and everything related with a heavy preference for backend development.
 - Angular ❤️ and React/ReactNative ⚛️
 - NestJS 😻
 
@@ -30,6 +30,7 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 🌱 Currently learning:
+- Rust
 - IoT
 
 🔭 Currently working on:

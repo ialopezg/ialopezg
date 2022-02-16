@@ -10,6 +10,7 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻
+- Mobile and Cross-Platform development
 - JavaScript, TypeScript, Java, PHP, Python, and everything related with a heavy preference for backend development.
 - Angular ❤️ and React/ReactNative ⚛️
 - NestJS 😻

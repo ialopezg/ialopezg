@@ -62,30 +62,26 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 - Rust
 - IoT
 
-<h2>🔭 Currently Working On</h2>
-
-- [Platform Boilerplate](https://github.com/ialopezg/boilerplate)
-
 <h2>📈 GitHub Stats</h2>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ialopezg&show_icons=true&theme=gotham" alt="ialopezg" />
+| <a href="https://github.com/ialopezg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ialopezg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="IALopezG's github stats" /></a> | <a href="https://github.com/ialopezg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialopezg&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ialopezg&row=2&column=6&margin-w=15&margin-h=15)](https://github.com/ialopezg/github-profile-trophy)
 
-<!--
-**ialopezg/ialopezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🔭 Top Repositories</h2>
+<a href="https://github.com/ialopezg/boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=boilerplate&theme=buefy" />
+</a>
+<a href="https://github.com/ialopezg/api-boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=api-boilerplate&theme=buefy" />
+</a>
+<a href="https://github.com/ialopezg/config">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=config&theme=buefy" />
+</a>
+<a href="https://github.com/ialopezg/custom-error-service">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=custom-error-service&theme=buefy" />
+</a>
 
 [website]: https://ialopezg.com
 [course]: http://ialopezg.com

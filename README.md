@@ -69,6 +69,8 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 <h2>📈 GitHub Stats</h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ialopezg&show_icons=true&theme=gotham" alt="ialopezg" />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ialopezg&row=2&column=6&margin-w=15)](https://github.com/ialopezg/github-profile-trophy)
 
 <!--
 **ialopezg/ialopezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

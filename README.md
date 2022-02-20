@@ -102,10 +102,23 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 
 <h2>📈 GitHub Stats</h2>
 
-| <a href="https://github.com/ialopezg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ialopezg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="IALopezG's github stats" /></a> | <a href="https://github.com/ialopezg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialopezg&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ialopezg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ialopezg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="IALopezG's github stats" /></a> | <a href="https://github.com/ialopezg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialopezg&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ialopezg&row=2&column=6&margin-w=15&margin-h=15)](https://github.com/ialopezg/github-profile-trophy)
+
+<p align="center">
+  <a href="https://github.com/ialopezg">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ialopezg&row=2&column=6&margin-w=15&margin-h=15" />
+  </a>
+</p>
+
+<h2>🔥 Streak stats</h2>
+
+<p align="center">
+  <a href="https://github.com/ialopezg">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="IALopezG's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ialopezg&theme=monokai-metallian&hide_border=true" />
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
 
 <h2>🔭 Top Repositories</h2>
 <p align="left">

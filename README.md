@@ -2,25 +2,50 @@
 
 This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, and I love solving problems :smile:
 
-📫 How to reach me:
+<h2>📫 How to reach me</h2>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://ialopezg.com#gh-light-mode-only"><img width="32px" alt="Website" title="Youtube" src="./assets/images/globe-light.svg"/></a>
+  <a href="https://ialopezg.com#gh-dark-mode-only"><img width="32px" alt="Youtube" title="Website" src="./assets/images/globe-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://linkedin.com/in/ialopezg#gh-light-mode-only"><img width="32px" alt="LinkedIn" title="Youtube" src="./assets/images/linkedin-light.svg"/></a>
+  <a href="https://linkedin.com/in/ialopezg#gh-dark-mode-only"><img width="32px" alt="LinkedIn" title="Youtube" src="./assets/images/linkedin-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://youtube.com/c/isidrolopezg#gh-light-mode-only"><img width="32px" alt="Youtube" title="Youtube" src="./assets/images/youtube-light.svg"/></a>
+  <a href="https://youtube.com/c/isidrolopezg#gh-dark-mode-only"><img width="32px" alt="Youtube" title="Youtube" src="./assets/images/youtube-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/ialopezg#gh-light-mode-only"><img width="32px" alt="Instagram" title="Youtube" src="./assets/images/instagram-light.svg"/></a>
+  <a href="https://instagram.com/ialopezg#gh-dark-mode-only"><img width="32px" alt="Instagram" title="Youtube" src="./assets/images/instagram-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/isidrolopezg#gh-light-mode-only"><img width="32px" alt="Twitter" title="Twitter" src="./assets/images/twitter-light.svg"/></a>
+  <a href="https://twitter.com/isidrolopezg#gh-dark-mode-only"><img width="32px" alt="Twitter" title="Twitter" src="./assets/images/twitter-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/ialopezg#gh-light-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-light.svg"/></a>
+  <a href="https://discord.gg/ialopezg#gh-dark-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/ialopezg#gh-light-mode-only"><img width="32px" alt="Dev.to" title="IALopezG Dev.to" src="./assets/images/dev-light.svg"></a>
+  <a href="https://dev.to/ialopezg#gh-dark-mode-only"><img width="32px" alt="Dev.to" title="IALopezG Dev.to" src="./assets/images/dev-dark.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/ialopezg#gh-light-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-light.svg"/></a>
+  <a href="https://ko-fi.com/ialopezg#gh-dark-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-dark.svg"/></a>
+</p>
+<br/>
 
-[![Website](./assets/images/globe-light.svg)](https://ialopezg.com#gh-light-mode-only)
-[![Website](./assets/images/globe-dark.svg)](https://ialopezg.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Youtube Channel](./assets/images/youtube-light.svg)](https://youtube.com/isidro.lopezg#gh-light-mode-only)
-[![Youtube Channel](./assets/images/youtube-dark.svg)](https://youtube.com/isidrolopezg#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Email me](./assets/images/mail-light.svg)](mailto:isidro.lopezg@gmail.com#gh-light-mode-only)
-[![Email me](./assets/images/mail-dark.svg)](mailto:isidro.lopezg@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Isidro A. López G. | LinkedIn](./assets/images/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![Isidro A. López G. | LinkedIn](./assets/images/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Isidro A. López G. | Twitter](./assets/images/twitter-light.svg)](https://twitter.com/isidrolopezg#gh-light-mode-only)
-[![Isidro A. López G. | Twitter](./assets/images/twitter-dark.svg)](https://twitter.com/isidrolopezg#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Isidro A. López G. | Instagram](./assets/images/instagram-light.svg)](https://instagram.com/ialopezg#gh-light-mode-only)
-[![Isidro A. López G. | Instagram](./assets/images/instagram-dark.svg)](https://instagram.com/ialopezg#gh-dark-mode-only)
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<p align="center">
+  <a href="https://www.youtube.com/c/isidrolopezg?sub_confirmation=1">
+    <img alt="Youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCRAAOhqGiWZ4RpY_JN1dLwg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/isidrolopezg">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCRAAOhqGiWZ4RpY_JN1dLwg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/ialopezg?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ialopezg"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ialopezg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻

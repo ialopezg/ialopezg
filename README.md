@@ -121,23 +121,17 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 </p>
 
 <h2>🔭 Top Repositories</h2>
-<p align="left">
-  <a href="https://github.com/ialopezg/boilerplate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=boilerplate&theme=buefy" alt="boilerplate" />
-  </a>
-  <a href="https://github.com/ialopezg/mailer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=mailer&theme=buefy" alt="mailer" />
-  </a>
-  <a href="https://github.com/ialopezg/config">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=config&theme=buefy" alt="config" />
-  </a>
-  <a href="https://github.com/ialopezg/custom-error-service">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=custom-error-service&theme=buefy" alt="custom-error-service" />
-  </a>
+<p align="center">
+  <a href="https://github.com/ialopezg/boilerplate"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=boilerplate&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="boilerplate"></a>
+  <a href="https://github.com/ialopezg/api-boilerplate"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=api-boilerplate&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="api-boilerplate"></a>
+  <a href="https://github.com/ialopezg/mailer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=mailer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="mailer"></a>
+  <a href="https://github.com/ialopezg/config"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=config&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="config"></a>
+  <a href="https://github.com/ialopezg/custom-error-service"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=custom-error-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-error-service"></a>
+  <a href="https://github.com/ialopezg/logger"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=logger&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="logger"></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<p align="center">
+  <a href="https://github.com/ialopezg?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 [website]: https://ialopezg.com

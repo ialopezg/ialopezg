@@ -20,14 +20,14 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
   <a href="https://twitter.com/isidrolopezg#gh-light-mode-only"><img width="32px" alt="Twitter" title="Twitter" src="./assets/images/twitter-light.svg"/></a>
   <a href="https://twitter.com/isidrolopezg#gh-dark-mode-only"><img width="32px" alt="Twitter" title="Twitter" src="./assets/images/twitter-dark.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ialopezg#gh-light-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-light.svg"/></a>
-  <a href="https://discord.gg/ialopezg#gh-dark-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-dark.svg"/></a>
+  <a href="https://discord.gg/ialopezg#gh-light-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-dark.svg"/></a>
+  <a href="https://discord.gg/ialopezg#gh-dark-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-light.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/ialopezg#gh-light-mode-only"><img width="32px" alt="Dev.to" title="IALopezG Dev.to" src="./assets/images/dev-light.svg"></a>
-  <a href="https://dev.to/ialopezg#gh-dark-mode-only"><img width="32px" alt="Dev.to" title="IALopezG Dev.to" src="./assets/images/dev-dark.svg"></a>
+  <a href="https://dev.to/ialopezg#gh-light-mode-only"><img width="32px" alt="Dev.to" title="IALopezG Dev.to" src="./assets/images/dev-dark.svg"></a>
+  <a href="https://dev.to/ialopezg#gh-dark-mode-only"><img width="32px" alt="Dev.to" title="IALopezG Dev.to" src="./assets/images/dev-light.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/ialopezg#gh-light-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-light.svg"/></a>
-  <a href="https://ko-fi.com/ialopezg#gh-dark-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-dark.svg"/></a>
+  <a href="https://ko-fi.com/ialopezg#gh-light-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-dark.svg"/></a>
+  <a href="https://ko-fi.com/ialopezg#gh-dark-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-light.svg"/></a>
 </p>
 <br/>
 

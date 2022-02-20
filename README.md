@@ -108,18 +108,24 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 [![trophy](https://github-profile-trophy.vercel.app/?username=ialopezg&row=2&column=6&margin-w=15&margin-h=15)](https://github.com/ialopezg/github-profile-trophy)
 
 <h2>🔭 Top Repositories</h2>
-<a href="https://github.com/ialopezg/boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=boilerplate&theme=buefy" />
-</a>
-<a href="https://github.com/ialopezg/api-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=api-boilerplate&theme=buefy" />
-</a>
-<a href="https://github.com/ialopezg/config">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=config&theme=buefy" />
-</a>
-<a href="https://github.com/ialopezg/custom-error-service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=custom-error-service&theme=buefy" />
-</a>
+<p align="left">
+  <a href="https://github.com/ialopezg/boilerplate">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=boilerplate&theme=buefy" alt="boilerplate" />
+  </a>
+  <a href="https://github.com/ialopezg/mailer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=mailer&theme=buefy" alt="mailer" />
+  </a>
+  <a href="https://github.com/ialopezg/config">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=config&theme=buefy" alt="config" />
+  </a>
+  <a href="https://github.com/ialopezg/custom-error-service">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ialopezg&repo=custom-error-service&theme=buefy" alt="custom-error-service" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 [website]: https://ialopezg.com
 [course]: http://ialopezg.com

@@ -41,8 +41,8 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="./assets/images/github-dark.png" style="padding-right:10px;" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="./assets/images/github-light.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="./assets/images/terminal-dark.svg" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="./assets/images/terminal-light.svg" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./assets/images/terminal-light.svg" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="./assets/images/terminal-dark.svg" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-dark-mode-only)
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][cssplaylist]
 <br />
 <br />

@@ -4,10 +4,23 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 
 📫 How to reach me:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isidro.lopezg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ialopezg)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/isidrolopezg/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ialopezg/)
+[![Website](./assets/images/globe-light.svg)](https://ialopezg.com#gh-light-mode-only)
+[![Website](./assets/images/globe-dark.svg)](https://ialopezg.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Youtube Channel](./assets/images/youtube-light.svg)](https://youtube.com/isidro.lopezg#gh-light-mode-only)
+[![Youtube Channel](./assets/images/youtube-dark.svg)](https://youtube.com/isidrolopezg#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Email me](./assets/images/mail-light.svg)](mailto:isidro.lopezg@gmail.com)
+[![Email me](./assets/images/mail-dark.svg)](mailto:isidro.lopezg@gmail.com)
+&nbsp;&nbsp;
+[![Isidro A. López G. | LinkedIn](./assets/images/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![Isidro A. López G. | LinkedIn](./assets/images/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Isidro A. López G. | Twitter](./assets/images/twitter-light.svg)](https://twitter.com/isidrolopezg#gh-light-mode-only)
+[![Isidro A. López G. | Twitter](./assets/images/twitter-dark.svg)](https://twitter.com/isidrolopezg#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Isidro A. López G. | Instagram](./assets/images/instagram-light.svg)](https://instagram.com/ialopezg#gh-light-mode-only)
+[![Isidro A. López G. | Instagram](./assets/images/instagram-dark.svg)](https://instagram.com/ialopezg#gh-dark-mode-only)
 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻

@@ -10,8 +10,8 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 [![Youtube Channel](./assets/images/youtube-light.svg)](https://youtube.com/isidro.lopezg#gh-light-mode-only)
 [![Youtube Channel](./assets/images/youtube-dark.svg)](https://youtube.com/isidrolopezg#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Email me](./assets/images/mail-light.svg)](mailto:isidro.lopezg@gmail.com)
-[![Email me](./assets/images/mail-dark.svg)](mailto:isidro.lopezg@gmail.com)
+[![Email me](./assets/images/mail-light.svg)](mailto:isidro.lopezg@gmail.com#gh-light-mode-only)
+[![Email me](./assets/images/mail-dark.svg)](mailto:isidro.lopezg@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Isidro A. López G. | LinkedIn](./assets/images/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![Isidro A. López G. | LinkedIn](./assets/images/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)

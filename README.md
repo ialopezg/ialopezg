@@ -59,6 +59,7 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 <h3>Languages & Tools</h3>
 
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Golang" width="32px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt=".Net Core" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt=".Net Framework" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][cssplaylist]

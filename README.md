@@ -56,9 +56,8 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 
 <h2>Technologies I use</h2>
 
-<h3>Languages & Tools</h3>
+<h3>Languages</h3>
 
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Golang" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][jsplaylist]
@@ -79,19 +78,29 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 [<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="GraphQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+<br />
+<br />
+
+<h3>Tools</h3>
+
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="32px" src="./assets/images/github-dark.png" style="padding-right:10px;" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="32px" src="./assets/images/terminal-dark.svg" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="32px" src="./assets/images/github-light.png" style="padding-right:10px;" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-light-mode-only)
+[<img align="left" alt="Postman" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="32px" src="./assets/images/terminal-dark.svg" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-dark-mode-only)
 [<img align="left" alt="Terminal" width="32px" src="./assets/images/terminal-light.svg" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-light-mode-only)
+[<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][cssplaylist]
+
 <br />
 <br />
 
 <h3>Database</h3>
 
 [<img align="left" alt="Oracle" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Oracle" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MSSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]

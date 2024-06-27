@@ -59,6 +59,7 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 <h3>Languages</h3>
 
 [<img align="left" alt="Golang" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Rust" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt=".Net Core" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -108,11 +109,6 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 [<img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
 <br />
 <br />
-
-<h2>🌱 Currently Learning</h2>
-
-- Rust
-- IoT
 
 <h2>📈 GitHub Stats</h2>
 

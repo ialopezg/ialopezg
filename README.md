@@ -123,7 +123,9 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 
 <h2>🔥 Streak stats</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ialopezg&theme=dark&exclude_days=Sat" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ialopezg&theme=dark&exclude_days=Sat" alt="GitHub Streak" /></a>
+</p>
 
 [website]: https://ialopezg.com
 [course]: http://ialopezg.com

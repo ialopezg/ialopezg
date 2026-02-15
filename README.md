@@ -1,31 +1,37 @@
 # Isidro A. López G.
 
-Systems Architect | Founder of Entiqon Labs | Engine Builder
+Systems Architect | Founder of Entiqon Labs | Engineering Engine Builder
 
-I design scalable backend systems, EDI infrastructures, and high-performance engines.
+I design scalable backend systems, EDI infrastructures, and modular integration engines.
 
-Currently focused on:
+Current focus:
 - Distributed architectures in Go
-- EDI transformation engines (BOD → Canonical → JSON → EDI)
-- Performance-first backend systems
+- BOD → Canonical → JSON → EDI transformation pipelines
+- Multi-tenant, performance-first systems
 - Product-driven engineering
 
 ---
 
 ## Founder
 
-Creator of **Entiqon Labs** — an engineering ecosystem building modular engines for real-world enterprise systems.
+Creator of **Entiqon Labs** — an engineering ecosystem building plug-and-play engines for enterprise integrations.
+
+---
+
+## Author
+
+Author of *Del Polvo al Paraíso* — exploring purpose, judgment, and eternity through structured reasoning.
 
 ---
 
 ## Core Stack
 
-Go · .NET · PostgreSQL · EDI (X12) · Next.js · TypeScript  
-Architecture over hype. Systems over trends.
+Go · .NET · PostgreSQL · EDI (X12) · Next.js · TypeScript
 
 ---
 
 ## Philosophy
 
-Build tools that outlive trends.  
-Design systems that scale beyond individuals.
+Architecture over hype.  
+Systems over trends.  
+Build tools that outlive cycles.

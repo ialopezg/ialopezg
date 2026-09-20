@@ -2,19 +2,28 @@
 
 Systems Architect | Founder of Entiqon Labs | Engineering Engine Builder
 
-I design scalable backend systems, EDI infrastructures, and modular integration engines.
+I design scalable backend systems, EDI infrastructures, modular integration engines, and low-level systems software.
 
 Current focus:
 - Distributed architectures in Go
 - BOD → Canonical → JSON → EDI transformation pipelines
 - Multi-tenant, performance-first systems
 - Product-driven engineering
+- **FeROS — Ferrite Retro Operating System**, a from-scratch bare-metal operating system
 
 ---
 
 ## Founder
 
 Creator of **Entiqon Labs** — an engineering ecosystem building plug-and-play engines for enterprise integrations.
+
+---
+
+## FeROS
+
+Creator of **FeROS — Ferrite Retro Operating System** — a from-scratch bare-metal operating system focused on explicit architecture, hardware ownership, and understanding every layer from boot to runtime.
+
+**Close to the metal. No magic. Every layer is visible.**
 
 ---
 
@@ -26,7 +35,7 @@ Author of *Del Polvo al Paraíso* — exploring purpose, judgment, and eternity 
 
 ## Core Stack
 
-Go · .NET · PostgreSQL · EDI (X12) · Next.js · TypeScript
+Go · .NET · PostgreSQL · EDI (X12) · Next.js · TypeScript · C · AArch64
 
 ---
 

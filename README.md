@@ -29,7 +29,14 @@ Creator of **FeROS — Ferrite Retro Operating System** — a from-scratch bare-
 
 ## Author
 
-Author of *Del Polvo al Paraíso* — exploring purpose, judgment, and eternity through structured reasoning.
+Author of **_Del Polvo al Paraíso_ (_From Dust to Paradise_)** — exploring purpose, judgment, and eternity through structured reasoning.
+
+### Coming Soon
+
+**Spanish:** _Activa tus sensores — ¡Vuélvete sobrenatural!_  
+**English:** _Activate your sensors — Become supernatural!_
+
+An upcoming book about developing observation, anticipation, pattern recognition, and conscious reasoning beyond ordinary perception.
 
 ---
 

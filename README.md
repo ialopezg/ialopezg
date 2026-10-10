@@ -42,7 +42,7 @@ An upcoming book about developing observation, anticipation, pattern recognition
 
 ## Core Stack
 
-Go · .NET · PostgreSQL · EDI (X12) · Next.js · TypeScript · C · AArch64
+Go · Rust · Python · .NET · PostgreSQL · EDI (X12) · Next.js · TypeScript · C · AArch64
 
 ---
 
